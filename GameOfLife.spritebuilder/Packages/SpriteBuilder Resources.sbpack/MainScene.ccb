@@ -352,7 +352,7 @@
 										<key>displayName</key>
 										<string>CCLabelTTF</string>
 										<key>memberVarAssignmentName</key>
-										<string>connection _generationLabel</string>
+										<string>_generationLabel</string>
 										<key>memberVarAssignmentType</key>
 										<integer>1</integer>
 										<key>properties</key>
@@ -372,7 +372,7 @@
 												<string>Position</string>
 												<key>value</key>
 												<array>
-													<real>41.5</real>
+													<real>31.5</real>
 													<real>24.480005264282227</real>
 													<integer>0</integer>
 													<integer>0</integer>
